@@ -39,6 +39,3 @@ function writing(str){
   },70);
  };
  writingII('solicita tu pagina 100% personalizada y adaptable a cualquier dispositivo o  cualquier aplicacion al mejor precio del mercado ;) " ');
-
-
-
